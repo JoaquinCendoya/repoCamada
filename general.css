@@ -1,0 +1,34 @@
+.Cabeza {
+color: rgb(243, 0, 0);
+border: 1px black solid;
+}
+
+body {
+    border: 5px blanchedalmond ridge;
+}
+
+.form1 {
+    
+}
+
+* {
+    font-family: sans-serif;
+    font-weight: bold;
+
+}
+
+body {
+   background-color: gainsboro;
+   text-align: center;
+}
+
+.mi-section {
+    
+}
+
+a {
+    text-decoration: none;
+}
+.inf-extra {
+    text-align: right;
+}
